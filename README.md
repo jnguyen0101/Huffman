@@ -1,4 +1,4 @@
-# Huffman
+# Huffman Coding
 Huffman coding is an algorithm for generating a coding tree for a given piece of data that produces a provably minimal encoding for a given pattern of letter frequencies.
 * In order to support variable-length encodings for data, we must use prefix coding schemes, which can be modeled as binary trees Huffman coding constructs encodings by building a tree from the bottom-up, putting the most frequent characters higher up in the coding tree.
 * Huffman coding constructs encodings by building a tree from the bottom-up, putting the most frequent characters higher up in the coding tree.
