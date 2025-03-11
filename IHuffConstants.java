@@ -1,5 +1,3 @@
-
-
 /**
  * Global constants used in Huff/Unhuff. Clients needing these
  * values should implement this interface or access the
