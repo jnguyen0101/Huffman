@@ -1,5 +1,3 @@
-
-
 /**
  * Utility binary-tree (Huffman tree) node for Huffman coding.
  * This is a simple, standard binary-tree node implementing
