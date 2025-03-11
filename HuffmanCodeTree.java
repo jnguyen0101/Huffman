@@ -1,17 +1,3 @@
-/*  Student information for assignment:
- *
- *  On MY honor, Jenny Nguyen, this programming assignment is MY own work
- *  and I have not provided this code to any other student.
- *
- *  Number of slip days used: 0
- *
- *  Student 1
- *  UTEID: jtn2497
- *  email address: nguyenjenny01012006@gmail.com
- *  Grader name: Lauren
- *
- */
-
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
